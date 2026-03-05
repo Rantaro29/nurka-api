@@ -66,7 +66,7 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Rantaro29/nurka-api>
 cd nurka-api
 ```
 
